@@ -33,7 +33,7 @@ const Header = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>info@vatiahighschool.edu.bd</span>
+                <span>info@asbacademy.edu.bd</span>
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-4">
@@ -48,10 +48,10 @@ const Header = () => {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
-            <img src={logo} alt="Vatia High School" className="h-16 w-16" />
+            <img src={logo} alt="ASB ACADEMY" className="h-16 w-16" />
             <div>
-              <h1 className="text-2xl font-bold text-primary">Vatia High School</h1>
-              <p className="text-sm text-muted-foreground">ভাটিয়া হাই স্কুল</p>
+              <h1 className="text-2xl font-bold text-primary">ASB ACADEMY</h1>
+              <p className="text-sm text-muted-foreground">এ.এস.বি (আয়েশা সালাম ভূঞা) একাডেমী</p>
             </div>
           </Link>
 
