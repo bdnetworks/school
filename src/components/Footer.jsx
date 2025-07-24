@@ -40,8 +40,8 @@ const Footer = () => {
             <div className="flex items-center space-x-3">
               <img src={logo} alt="Vatia High School" className="h-12 w-12" />
               <div>
-                <h3 className="text-xl font-bold">Vatia High School</h3>
-                <p className="text-sm opacity-80">ভাটিয়া হাই স্কুল</p>
+                <h3 className="text-xl font-bold">ASB ACADEMY KENDUA NETRAKONA</h3>
+                <p className="text-sm opacity-80">এ.এস.বি একাডেমী, কেন্দুয়া</p>
               </div>
             </div>
             <p className="text-sm opacity-90 leading-relaxed">
@@ -156,7 +156,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 mt-8 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm opacity-80">
-              © ২০২৫ Vatia High School. সকল অধিকার সংরক্ষিত।
+              © ২০২৫ এ.এস.বি (আয়েশা সালাম ভূঞা) একাডেমী, কেন্দুয়া, নেত্রকোণা. সকল অধিকার সংরক্ষিত।
             </p>
             <div className="flex space-x-6 text-sm opacity-80">
               <Link to="/privacy" className="hover:opacity-100 transition-opacity">
